@@ -1,4 +1,4 @@
-# Text Editor
+# Text Editor - Linux terminal based in C
 
 ## Description
 A basic terminal based text editor with the features :
